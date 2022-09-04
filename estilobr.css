@@ -1,0 +1,17 @@
+header{
+	height: 40vh;
+	background: gray;
+}
+footer{
+	background: gray;
+	width: 100vp;
+}
+nav {
+	margin: 0;
+	padding: 0;
+	background: gray;
+}
+h1{
+	color: white;
+	font-weight: 50;
+}
