@@ -1,10 +1,29 @@
 header{
-	height: 40vh;
 	background: gray;
+	height: 500px;
+	width: 100%;
+}
+#contenedor-header{
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+}
+section{
+	width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
 }
 footer{
 	background: gray;
-	width: 100vp;
+	width: 100%;
+	height: 80px;
+}
+#contenedor-footer{
+	margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+
 }
 nav {
 	margin: 0;
@@ -14,4 +33,10 @@ nav {
 h1{
 	color: white;
 	font-weight: 50;
+}
+main{
+	margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+
 }
